@@ -1,5 +1,4 @@
-# Wed_Group_1
-คะแนนที่ได้ 100/100
+# Wed_Group_1 คะแนนที่ได้ 100/100
 ##คำสั่งที่ใช้
 gcloud config set compute/region europe-west4**เปลี่ยนเป็นของเรา**
 export REGION=europe-west4  **เปลี่ยนเป็นของเรา**
